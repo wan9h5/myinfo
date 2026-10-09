@@ -43,6 +43,7 @@ Frontend Developer exploring AI & Bioinformatics. (now 2026.
 
 <a href="https://blog.csdn.net/weixin_44001222/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
 <a href="https://space.bilibili.com/403725157/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
+<a href="https://www.tup.com.cn/booksCenter/bookauthorbrief?id=10488401"><img src="https://img.shields.io/badge/THUP-清华大学出版社-46278b" /></a>&emsp;
 
 ### quote
 
